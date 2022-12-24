@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\bin\Debug\ClassLibraryFW.dll
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\bin\Debug\ClassLibraryFW.pdb
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\obj\Debug\ClassLibraryFW.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\obj\Debug\ClassLibraryFW.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\obj\Debug\ClassLibraryFW.dll
+C:\Users\HP\Desktop\5. hafta ödevi\ClassLibraryFW\obj\Debug\ClassLibraryFW.pdb

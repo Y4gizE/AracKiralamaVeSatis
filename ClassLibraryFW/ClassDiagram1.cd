@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryFW.Uye">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQABAgA=</HashCode>
+      <FileName>Uye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryFW.Toyota">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAEAAAACAAAAAAAAAAYAAAAAAEAAAgAAAAA=</HashCode>
+      <FileName>Toyota.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryFW.Ford">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAgAACACACAAAAAAQAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ford.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryFW.Audi">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="ClassLibraryFW.Araba" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="4.622" />
+        <Point X="3.5" Y="5.625" />
+        <Point X="5.5" Y="5.625" />
+        <Point X="5.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAIEAAAACAAAAAAIAAAQAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Audi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryFW.Admin">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="ClassLibraryFW.Kullanicilar" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="3.853" />
+        <Point X="10.25" Y="4.875" />
+        <Point X="11.312" Y="4.875" />
+        <Point X="11.312" Y="5.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.21" />
+  </Class>
+  <Class Name="ClassLibraryFW.Kullanicilar">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAgAAAAAIAAAEAAAEAAAAAAgAAAAAACAAAAAABAgA=</HashCode>
+      <FileName>Kullanicilar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryFW.Araba">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAAUAAAAAIQQAABAAAAQABBgAEAgAAAAAAAA=</HashCode>
+      <FileName>Araba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryFW.Showroom">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAICAAAAAAAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>Showroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryFW.UyeLog">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UyeLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibraryFW.ISes">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClassLibraryFW.IKullaniciBilgi">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IKullaniciBilgi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
